@@ -1,0 +1,29 @@
+#wrapper {
+  margin: 0, auto; }
+
+#logo {
+  font-size: 15px;
+  font-color: white;
+  border: 5px solid black;
+  height: 10%;
+  text-align: center;
+  display: inline-block; }
+
+#sidebar {
+  border: 5px solid black;
+  height: 400px;
+  width: 160px;
+  display: inline-block; }
+
+#content {
+  margin-left: 200px;
+  margin-top: -402px;
+  display: inline-block; }
+
+#feet {
+  border: 5px solid black;
+  height: 50px;
+  width: 625px;
+  margin-top: 3px; }
+
+/*# sourceMappingURL=style.css.map */
