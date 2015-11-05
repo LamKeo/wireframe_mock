@@ -1,39 +1,58 @@
-$font-color: white;
-$font-size: 15px;
+
+$font-size: 22px;
 $border: 5px solid black;
 $logo-border-height: 80px;
 $sidebar-height: 400px;
 $sidebar-width: 160px;
 
+body {
+  background-color: grey;
+  background: url("http://7-themes.com/data_images/out/16/6822747-hipster-wallpaper.jpg");
+  background-position: center;
+  background-size: cover;
+  font-family: 'Rufina', serif;
+  font-style: oblique;
+  margin-top: 25px;
 
 #wrapper {
-  margin: 0, auto;
+  margin: 0px, auto;
+
 }
 #logo {
   font-size: $font-size;
-  font-color: $font-color;
   border: $border;
-  height: 10%;
+  height: 70px;
+  width: 95%;
   text-align: center;
-  display: inline-block;
+  display: block;
+  margin-bottom: -15px;
+  align-content: center;
+
 
 }
 #sidebar {
+  float: left;
+  margin-top: 2%;
   border: $border;
   height: $sidebar-height;
   width: $sidebar-width;
-  display: inline-block;
 
 }
+#click {
+  
+}
+
 #content {
-  margin-left: 200px;
-  margin-top: -402px;
+  margin-left: 174px;
+  margin-top: -65px;
   display: inline-block;
+  float: left;
+}
 
 }
 #feet {
   border: $border;
-  height: 50px;
-  width: 625px;
-  margin-top: 3px;
+  height: 45px;
+  width: 50%;
+  margin-top: 450px;
 }

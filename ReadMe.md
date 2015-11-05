@@ -2,4 +2,6 @@
 
 ###A place where foodies can unite. Share photos, foodie destinations, and recommendations.
 
-![FatKids](http://i.imgur.com/4U0exYz.png)
+######Made changes to overall page and added a sign up button.
+
+![Fatkids](http://i.imgur.com/hHTPaBt.jpg)
